@@ -4,7 +4,7 @@ A modern, full-stack job board application built with React, TypeScript, and Tai
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://lovable.dev/projects/87688435-6b14-41c1-80c0-2effe29e887b)
+[View Live Demo](https://preview--careerboost-job-board-app.lovable.app/)
 
 ## 📋 Features
 
