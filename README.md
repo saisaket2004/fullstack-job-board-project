@@ -37,38 +37,6 @@ A modern, full-stack job board application built with React, TypeScript, and Tai
 - **Build Tool**: Vite
 - **Code Quality**: ESLint, TypeScript strict mode
 
-## 📁 Project Structure
-
-```
-src/
-├── components/
-│   ├── ui/                     # shadcn/ui components
-│   │   ├── button.tsx
-│   │   ├── card.tsx
-│   │   ├── input.tsx
-│   │   ├── badge.tsx
-│   │   └── ...
-│   ├── JobCard.tsx            # Job listing card component
-│   └── JobFilters.tsx         # Search and filter component
-├── pages/
-│   ├── Home.tsx               # Main job listings page
-│   ├── JobDetail.tsx          # Individual job details
-│   ├── JobApplication.tsx     # Job application form
-│   └── NotFound.tsx           # 404 error page
-├── types/
-│   └── job.ts                 # TypeScript interfaces
-├── data/
-│   └── mockJobs.ts            # Sample job data
-├── hooks/
-│   ├── use-toast.ts           # Toast notification hook
-│   └── use-mobile.tsx         # Mobile detection hook
-├── lib/
-│   └── utils.ts               # Utility functions
-├── App.tsx                    # Main app component with routing
-├── main.tsx                   # App entry point
-└── index.css                  # Global styles and design tokens
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -277,3 +245,5 @@ Built with ❤️ by saket as a full-stack development demonstration project.
 - [Feature Requests](https://github.com/your-username/careerboost/discussions)
 
 **Ready to launch your career? Start exploring opportunities with CareerBoost!** 🚀
+
+**Made With Lovable**
